@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/startuptools-react/static/css/main.e6c13ad2.css",
+    "main.js": "/startuptools-react/static/js/main.0e48fdf6.js",
+    "static/js/787.632e0077.chunk.js": "/startuptools-react/static/js/787.632e0077.chunk.js",
+    "index.html": "/startuptools-react/index.html",
+    "main.e6c13ad2.css.map": "/startuptools-react/static/css/main.e6c13ad2.css.map",
+    "main.0e48fdf6.js.map": "/startuptools-react/static/js/main.0e48fdf6.js.map",
+    "787.632e0077.chunk.js.map": "/startuptools-react/static/js/787.632e0077.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e48fdf6.js"
+  ]
+}
